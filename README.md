@@ -12,6 +12,7 @@ A simple Python script to **track and check expenses for specific dates**. It al
 ## 🧰 Requirements
 
 - Python 3.7 or higher
+- Libraries: pandas, matplotlib
 
 > Dependencies:
 > - No external packages required (uses built-in modules like `datetime`, `csv`, or `json`)
